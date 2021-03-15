@@ -63,7 +63,7 @@ Flow is a next-generation blockchain platform that is designed to be fast and ea
 
 ### 2. Web App (Static website) | [kitty-items-web](https://github.com/onflow/kitty-items/tree/master/kitty-items-web)
 
-A true dapp, client-only web app. This is a complete web application built with React that demonstrates how to build a static website that can be deployed to an environment like IPFS and connects directly to the Flow blockchain using `@onflow/fcl`. No servers required. `@onflow/fcl` handles authentication and authorization of [Flow accounts](https://docs.onflow.org/concepts/accounts-and-keys/), [signing transactions](https://docs.onflow.org/concepts/transaction-signing/), and querying data using using Cadence scripts.
+A true dapp, client-only web app. This is a complete web application built with React that demonstrates how to build a static website that can be deployed to an environment like IPFS and connects directly to the Flow blockchain using `@onflow/fcl`. No servers required. `@onflow/fcl` handles authentication and authorization of [Flow accounts](https://docs.onflow.org/concepts/accounts-and-keys/), [signing transactions](https://docs.onflow.org/concepts/transaction-signing/), and querying data using Cadence scripts.
 
 ### 3. Look Ma, a Web Server! | [kitty-items-js](https://github.com/onflow/kitty-items/tree/master/kitty-items-js)
 
